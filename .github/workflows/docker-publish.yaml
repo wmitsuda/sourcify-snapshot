@@ -22,7 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.3.4
         with:
-          submodules: recursive
+          lfs: true
 
       - name: Cache Docker layers
         uses: actions/cache@v2
