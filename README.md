@@ -1,3 +1,9 @@
+# THIS REPOSITORY IS DEPRECATED!!!
+
+Sourcify IPFS repository is now working as expected and there is no more need for this project.
+
+---
+
 # Sourcify Snapshot Image
 
 This repository builds a static image containing part of Sourcify db from a backup.
